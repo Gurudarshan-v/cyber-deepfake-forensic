@@ -1,0 +1,7 @@
+{
+  "name": "Deepfake Forensics Suite",
+  "description": "Advanced AI-powered deepfake detection and forensic analysis tool using multimodal neural networks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
